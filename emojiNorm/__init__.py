@@ -4,6 +4,9 @@ import typing
 import unicodedata
 from collections import defaultdict
 from urllib.parse import urlparse
+from warnings import warn
+
+warn("We have moved from M$ GitHub to https://codeberg.org/KOLANICH-libs/emojiNorm.py , read why on https://codeberg.org/KOLANICH/Fuck-GuanTEEnomo .")
 
 import icu
 import more_itertools
